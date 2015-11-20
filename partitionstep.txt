@@ -1,0 +1,1086 @@
+
+Now is V0:
+
+gmax=-148607,gmax_name=658,gmax_newname=72,gmax_group_weight=28
+V0 add a group,its name in the coarsening graph is:658
+V0 's group weight is: 28 ,Vk 's group weight is: 10480
+
+gmax=-148185,gmax_name=1814,gmax_newname=179,gmax_group_weight=30
+V0 add a group,its name in the coarsening graph is:1814
+V0 's group weight is: 58 ,Vk 's group weight is: 10450
+
+gmax=-147661,gmax_name=280,gmax_newname=37,gmax_group_weight=30
+V0 add a group,its name in the coarsening graph is:280
+V0 's group weight is: 88 ,Vk 's group weight is: 10420
+
+gmax=-147401,gmax_name=1990,gmax_newname=197,gmax_group_weight=30
+V0 add a group,its name in the coarsening graph is:1990
+V0 's group weight is: 118 ,Vk 's group weight is: 10390
+
+gmax=-146833,gmax_name=2921,gmax_newname=300,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:2921
+V0 's group weight is: 145 ,Vk 's group weight is: 10363
+
+gmax=-146477,gmax_name=873,gmax_newname=95,gmax_group_weight=28
+V0 add a group,its name in the coarsening graph is:873
+V0 's group weight is: 173 ,Vk 's group weight is: 10335
+
+gmax=-146063,gmax_name=916,gmax_newname=101,gmax_group_weight=30
+V0 add a group,its name in the coarsening graph is:916
+V0 's group weight is: 203 ,Vk 's group weight is: 10305
+
+gmax=-145567,gmax_name=2274,gmax_newname=228,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:2274
+V0 's group weight is: 230 ,Vk 's group weight is: 10278
+
+gmax=-145092,gmax_name=2961,gmax_newname=306,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:2961
+V0 's group weight is: 257 ,Vk 's group weight is: 10251
+
+gmax=-144630,gmax_name=191,gmax_newname=23,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:191
+V0 's group weight is: 284 ,Vk 's group weight is: 10224
+
+gmax=-144107,gmax_name=2458,gmax_newname=249,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:2458
+V0 's group weight is: 311 ,Vk 's group weight is: 10197
+
+gmax=-143784,gmax_name=562,gmax_newname=63,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:562
+V0 's group weight is: 338 ,Vk 's group weight is: 10170
+
+gmax=-143252,gmax_name=1930,gmax_newname=191,gmax_group_weight=30
+V0 add a group,its name in the coarsening graph is:1930
+V0 's group weight is: 368 ,Vk 's group weight is: 10140
+
+gmax=-143023,gmax_name=693,gmax_newname=78,gmax_group_weight=28
+V0 add a group,its name in the coarsening graph is:693
+V0 's group weight is: 396 ,Vk 's group weight is: 10112
+
+gmax=-142609,gmax_name=1079,gmax_newname=121,gmax_group_weight=30
+V0 add a group,its name in the coarsening graph is:1079
+V0 's group weight is: 426 ,Vk 's group weight is: 10082
+
+gmax=-142124,gmax_name=2831,gmax_newname=287,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:2831
+V0 's group weight is: 453 ,Vk 's group weight is: 10055
+
+gmax=-141639,gmax_name=234,gmax_newname=28,gmax_group_weight=30
+V0 add a group,its name in the coarsening graph is:234
+V0 's group weight is: 483 ,Vk 's group weight is: 10025
+
+gmax=-141151,gmax_name=1030,gmax_newname=116,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:1030
+V0 's group weight is: 510 ,Vk 's group weight is: 9998
+
+gmax=-140601,gmax_name=2937,gmax_newname=303,gmax_group_weight=28
+V0 add a group,its name in the coarsening graph is:2937
+V0 's group weight is: 538 ,Vk 's group weight is: 9970
+
+gmax=-140218,gmax_name=805,gmax_newname=89,gmax_group_weight=28
+V0 add a group,its name in the coarsening graph is:805
+V0 's group weight is: 566 ,Vk 's group weight is: 9942
+
+gmax=-139751,gmax_name=52,gmax_newname=8,gmax_group_weight=28
+V0 add a group,its name in the coarsening graph is:52
+V0 's group weight is: 594 ,Vk 's group weight is: 9914
+
+gmax=-139295,gmax_name=703,gmax_newname=79,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:703
+V0 's group weight is: 621 ,Vk 's group weight is: 9887
+
+gmax=-138858,gmax_name=1059,gmax_newname=118,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:1059
+V0 's group weight is: 648 ,Vk 's group weight is: 9860
+
+gmax=-138247,gmax_name=250,gmax_newname=30,gmax_group_weight=30
+V0 add a group,its name in the coarsening graph is:250
+V0 's group weight is: 678 ,Vk 's group weight is: 9830
+
+gmax=-137871,gmax_name=2794,gmax_newname=284,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:2794
+V0 's group weight is: 705 ,Vk 's group weight is: 9803
+
+gmax=-137423,gmax_name=566,gmax_newname=64,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:566
+V0 's group weight is: 732 ,Vk 's group weight is: 9776
+
+gmax=-136865,gmax_name=1357,gmax_newname=144,gmax_group_weight=30
+V0 add a group,its name in the coarsening graph is:1357
+V0 's group weight is: 762 ,Vk 's group weight is: 9746
+
+gmax=-136405,gmax_name=2115,gmax_newname=212,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:2115
+V0 's group weight is: 789 ,Vk 's group weight is: 9719
+
+gmax=-135976,gmax_name=2379,gmax_newname=238,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:2379
+V0 's group weight is: 816 ,Vk 's group weight is: 9692
+
+gmax=-135559,gmax_name=2939,gmax_newname=304,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:2939
+V0 's group weight is: 843 ,Vk 's group weight is: 9665
+
+gmax=-135075,gmax_name=16,gmax_newname=1,gmax_group_weight=28
+V0 add a group,its name in the coarsening graph is:16
+V0 's group weight is: 871 ,Vk 's group weight is: 9637
+
+gmax=-134631,gmax_name=2270,gmax_newname=227,gmax_group_weight=28
+V0 add a group,its name in the coarsening graph is:2270
+V0 's group weight is: 899 ,Vk 's group weight is: 9609
+
+gmax=-134171,gmax_name=2729,gmax_newname=276,gmax_group_weight=28
+V0 add a group,its name in the coarsening graph is:2729
+V0 's group weight is: 927 ,Vk 's group weight is: 9581
+
+gmax=-133714,gmax_name=2364,gmax_newname=236,gmax_group_weight=28
+V0 add a group,its name in the coarsening graph is:2364
+V0 's group weight is: 955 ,Vk 's group weight is: 9553
+
+gmax=-133171,gmax_name=1394,gmax_newname=148,gmax_group_weight=30
+V0 add a group,its name in the coarsening graph is:1394
+V0 's group weight is: 985 ,Vk 's group weight is: 9523
+
+gmax=-132714,gmax_name=2685,gmax_newname=271,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:2685
+V0 's group weight is: 1012 ,Vk 's group weight is: 9496
+
+gmax=-132313,gmax_name=2653,gmax_newname=268,gmax_group_weight=28
+V0 add a group,its name in the coarsening graph is:2653
+V0 's group weight is: 1040 ,Vk 's group weight is: 9468
+
+gmax=-132047,gmax_name=1198,gmax_newname=130,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:1198
+V0 's group weight is: 1067 ,Vk 's group weight is: 9441
+
+gmax=-131657,gmax_name=2716,gmax_newname=275,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:2716
+V0 's group weight is: 1094 ,Vk 's group weight is: 9414
+
+gmax=-131208,gmax_name=2746,gmax_newname=278,gmax_group_weight=28
+V0 add a group,its name in the coarsening graph is:2746
+V0 's group weight is: 1122 ,Vk 's group weight is: 9386
+
+gmax=-130710,gmax_name=2131,gmax_newname=214,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:2131
+V0 's group weight is: 1149 ,Vk 's group weight is: 9359
+
+gmax=-130334,gmax_name=968,gmax_newname=110,gmax_group_weight=28
+V0 add a group,its name in the coarsening graph is:968
+V0 's group weight is: 1177 ,Vk 's group weight is: 9331
+
+gmax=-152793,gmax_name=2105,gmax_newname=208,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:2105
+V0 's group weight is: 1204 ,Vk 's group weight is: 9304
+
+gmax=-152261,gmax_name=1544,gmax_newname=159,gmax_group_weight=29
+V0 add a group,its name in the coarsening graph is:1544
+V0 's group weight is: 1233 ,Vk 's group weight is: 9275
+
+gmax=-151538,gmax_name=2558,gmax_newname=260,gmax_group_weight=33
+V0 add a group,its name in the coarsening graph is:2558
+V0 's group weight is: 1266 ,Vk 's group weight is: 9242
+
+gmax=-150895,gmax_name=570,gmax_newname=65,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:570
+V0 's group weight is: 1293 ,Vk 's group weight is: 9215
+
+gmax=-150122,gmax_name=2902,gmax_newname=296,gmax_group_weight=28
+V0 add a group,its name in the coarsening graph is:2902
+V0 's group weight is: 1321 ,Vk 's group weight is: 9187
+
+gmax=-149472,gmax_name=2498,gmax_newname=255,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:2498
+V0 's group weight is: 1348 ,Vk 's group weight is: 9160
+
+gmax=-148822,gmax_name=1027,gmax_newname=115,gmax_group_weight=34
+V0 add a group,its name in the coarsening graph is:1027
+V0 's group weight is: 1382 ,Vk 's group weight is: 9126
+
+gmax=-148170,gmax_name=1516,gmax_newname=157,gmax_group_weight=28
+V0 add a group,its name in the coarsening graph is:1516
+V0 's group weight is: 1410 ,Vk 's group weight is: 9098
+
+gmax=-147524,gmax_name=620,gmax_newname=71,gmax_group_weight=33
+V0 add a group,its name in the coarsening graph is:620
+V0 's group weight is: 1443 ,Vk 's group weight is: 9065
+
+gmax=-146948,gmax_name=90,gmax_newname=13,gmax_group_weight=36
+V0 add a group,its name in the coarsening graph is:90
+V0 's group weight is: 1479 ,Vk 's group weight is: 9029
+
+gmax=-146086,gmax_name=2226,gmax_newname=221,gmax_group_weight=36
+V0 add a group,its name in the coarsening graph is:2226
+V0 's group weight is: 1515 ,Vk 's group weight is: 8993
+
+gmax=-145492,gmax_name=2654,gmax_newname=269,gmax_group_weight=32
+V0 add a group,its name in the coarsening graph is:2654
+V0 's group weight is: 1547 ,Vk 's group weight is: 8961
+
+gmax=-144867,gmax_name=612,gmax_newname=69,gmax_group_weight=30
+V0 add a group,its name in the coarsening graph is:612
+V0 's group weight is: 1577 ,Vk 's group weight is: 8931
+
+gmax=-144114,gmax_name=2656,gmax_newname=270,gmax_group_weight=36
+V0 add a group,its name in the coarsening graph is:2656
+V0 's group weight is: 1613 ,Vk 's group weight is: 8895
+
+gmax=-143390,gmax_name=704,gmax_newname=80,gmax_group_weight=32
+V0 add a group,its name in the coarsening graph is:704
+V0 's group weight is: 1645 ,Vk 's group weight is: 8863
+
+gmax=-142641,gmax_name=2182,gmax_newname=217,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:2182
+V0 's group weight is: 1672 ,Vk 's group weight is: 8836
+
+gmax=-141943,gmax_name=1952,gmax_newname=193,gmax_group_weight=34
+V0 add a group,its name in the coarsening graph is:1952
+V0 's group weight is: 1706 ,Vk 's group weight is: 8802
+
+gmax=-141283,gmax_name=909,gmax_newname=100,gmax_group_weight=32
+V0 add a group,its name in the coarsening graph is:909
+V0 's group weight is: 1738 ,Vk 's group weight is: 8770
+
+gmax=-140600,gmax_name=669,gmax_newname=74,gmax_group_weight=36
+V0 add a group,its name in the coarsening graph is:669
+V0 's group weight is: 1774 ,Vk 's group weight is: 8734
+
+gmax=-139786,gmax_name=2443,gmax_newname=246,gmax_group_weight=32
+V0 add a group,its name in the coarsening graph is:2443
+V0 's group weight is: 1806 ,Vk 's group weight is: 8702
+
+gmax=-139092,gmax_name=1904,gmax_newname=188,gmax_group_weight=27
+V0 add a group,its name in the coarsening graph is:1904
+V0 's group weight is: 1833 ,Vk 's group weight is: 8675
+
+gmax=-138421,gmax_name=980,gmax_newname=111,gmax_group_weight=33
+V0 add a group,its name in the coarsening graph is:980
+V0 's group weight is: 1866 ,Vk 's group weight is: 8642
+
+gmax=-137729,gmax_name=253,gmax_newname=32,gmax_group_weight=36
+V0 add a group,its name in the coarsening graph is:253
+V0 's group weight is: 1902 ,Vk 's group weight is: 8606
+
+gmax=-137109,gmax_name=2497,gmax_newname=254,gmax_group_weight=32
+V0 add a group,its name in the coarsening graph is:2497
+V0 's group weight is: 1934 ,Vk 's group weight is: 8574
+
+gmax=-136509,gmax_name=724,gmax_newname=81,gmax_group_weight=34
+V0 add a group,its name in the coarsening graph is:724
+V0 's group weight is: 1968 ,Vk 's group weight is: 8540
+
+gmax=-135930,gmax_name=1847,gmax_newname=185,gmax_group_weight=34
+V0 add a group,its name in the coarsening graph is:1847
+V0 's group weight is: 2002 ,Vk 's group weight is: 8506
+
+gmax=-135213,gmax_name=2095,gmax_newname=207,gmax_group_weight=32
+V0 add a group,its name in the coarsening graph is:2095
+V0 's group weight is: 2034 ,Vk 's group weight is: 8474
+
+gmax=-134473,gmax_name=423,gmax_newname=50,gmax_group_weight=34
+V0 add a group,its name in the coarsening graph is:423
+V0 's group weight is: 2068 ,Vk 's group weight is: 8440
+
+Now is V1:
+
+gmax=-155923,gmax_name=460,gmax_newname=55,gmax_group_weight=28
+V1 add a group,its name in the coarsening graph is:460
+V1 's group weight is: 28 ,Vk 's group weight is: 8412
+
+gmax=-155285,gmax_name=908,gmax_newname=99,gmax_group_weight=27
+V1 add a group,its name in the coarsening graph is:908
+V1 's group weight is: 55 ,Vk 's group weight is: 8385
+
+gmax=-154821,gmax_name=1534,gmax_newname=158,gmax_group_weight=34
+V1 add a group,its name in the coarsening graph is:1534
+V1 's group weight is: 89 ,Vk 's group weight is: 8351
+
+gmax=-154049,gmax_name=2905,gmax_newname=298,gmax_group_weight=27
+V1 add a group,its name in the coarsening graph is:2905
+V1 's group weight is: 116 ,Vk 's group weight is: 8324
+
+gmax=-153286,gmax_name=2241,gmax_newname=222,gmax_group_weight=34
+V1 add a group,its name in the coarsening graph is:2241
+V1 's group weight is: 150 ,Vk 's group weight is: 8290
+
+gmax=-152666,gmax_name=2060,gmax_newname=204,gmax_group_weight=28
+V1 add a group,its name in the coarsening graph is:2060
+V1 's group weight is: 178 ,Vk 's group weight is: 8262
+
+gmax=-152153,gmax_name=1391,gmax_newname=147,gmax_group_weight=36
+V1 add a group,its name in the coarsening graph is:1391
+V1 's group weight is: 214 ,Vk 's group weight is: 8226
+
+gmax=-151428,gmax_name=1261,gmax_newname=134,gmax_group_weight=30
+V1 add a group,its name in the coarsening graph is:1261
+V1 's group weight is: 244 ,Vk 's group weight is: 8196
+
+gmax=-150745,gmax_name=1724,gmax_newname=169,gmax_group_weight=33
+V1 add a group,its name in the coarsening graph is:1724
+V1 's group weight is: 277 ,Vk 's group weight is: 8163
+
+gmax=-150023,gmax_name=2047,gmax_newname=202,gmax_group_weight=31
+V1 add a group,its name in the coarsening graph is:2047
+V1 's group weight is: 308 ,Vk 's group weight is: 8132
+
+gmax=-149377,gmax_name=2836,gmax_newname=288,gmax_group_weight=32
+V1 add a group,its name in the coarsening graph is:2836
+V1 's group weight is: 340 ,Vk 's group weight is: 8100
+
+gmax=-148660,gmax_name=765,gmax_newname=86,gmax_group_weight=34
+V1 add a group,its name in the coarsening graph is:765
+V1 's group weight is: 374 ,Vk 's group weight is: 8066
+
+gmax=-147952,gmax_name=1123,gmax_newname=122,gmax_group_weight=30
+V1 add a group,its name in the coarsening graph is:1123
+V1 's group weight is: 404 ,Vk 's group weight is: 8036
+
+gmax=-147241,gmax_name=1323,gmax_newname=141,gmax_group_weight=36
+V1 add a group,its name in the coarsening graph is:1323
+V1 's group weight is: 440 ,Vk 's group weight is: 8000
+
+gmax=-146665,gmax_name=2885,gmax_newname=295,gmax_group_weight=34
+V1 add a group,its name in the coarsening graph is:2885
+V1 's group weight is: 474 ,Vk 's group weight is: 7966
+
+gmax=-146006,gmax_name=825,gmax_newname=91,gmax_group_weight=28
+V1 add a group,its name in the coarsening graph is:825
+V1 's group weight is: 502 ,Vk 's group weight is: 7938
+
+gmax=-145221,gmax_name=670,gmax_newname=75,gmax_group_weight=31
+V1 add a group,its name in the coarsening graph is:670
+V1 's group weight is: 533 ,Vk 's group weight is: 7907
+
+gmax=-144622,gmax_name=686,gmax_newname=77,gmax_group_weight=34
+V1 add a group,its name in the coarsening graph is:686
+V1 's group weight is: 567 ,Vk 's group weight is: 7873
+
+gmax=-143905,gmax_name=512,gmax_newname=58,gmax_group_weight=27
+V1 add a group,its name in the coarsening graph is:512
+V1 's group weight is: 594 ,Vk 's group weight is: 7846
+
+gmax=-143161,gmax_name=2882,gmax_newname=294,gmax_group_weight=33
+V1 add a group,its name in the coarsening graph is:2882
+V1 's group weight is: 627 ,Vk 's group weight is: 7813
+
+gmax=-142473,gmax_name=1917,gmax_newname=190,gmax_group_weight=34
+V1 add a group,its name in the coarsening graph is:1917
+V1 's group weight is: 661 ,Vk 's group weight is: 7779
+
+gmax=-141711,gmax_name=1078,gmax_newname=120,gmax_group_weight=36
+V1 add a group,its name in the coarsening graph is:1078
+V1 's group weight is: 697 ,Vk 's group weight is: 7743
+
+gmax=-141029,gmax_name=2256,gmax_newname=226,gmax_group_weight=28
+V1 add a group,its name in the coarsening graph is:2256
+V1 's group weight is: 725 ,Vk 's group weight is: 7715
+
+gmax=-140277,gmax_name=936,gmax_newname=106,gmax_group_weight=34
+V1 add a group,its name in the coarsening graph is:936
+V1 's group weight is: 759 ,Vk 's group weight is: 7681
+
+gmax=-139776,gmax_name=2001,gmax_newname=199,gmax_group_weight=33
+V1 add a group,its name in the coarsening graph is:2001
+V1 's group weight is: 792 ,Vk 's group weight is: 7648
+
+gmax=-139072,gmax_name=1256,gmax_newname=133,gmax_group_weight=29
+V1 add a group,its name in the coarsening graph is:1256
+V1 's group weight is: 821 ,Vk 's group weight is: 7619
+
+gmax=-138385,gmax_name=2348,gmax_newname=233,gmax_group_weight=28
+V1 add a group,its name in the coarsening graph is:2348
+V1 's group weight is: 849 ,Vk 's group weight is: 7591
+
+gmax=-137685,gmax_name=1265,gmax_newname=136,gmax_group_weight=28
+V1 add a group,its name in the coarsening graph is:1265
+V1 's group weight is: 877 ,Vk 's group weight is: 7563
+
+gmax=-136943,gmax_name=1896,gmax_newname=187,gmax_group_weight=36
+V1 add a group,its name in the coarsening graph is:1896
+V1 's group weight is: 913 ,Vk 's group weight is: 7527
+
+gmax=-136316,gmax_name=410,gmax_newname=48,gmax_group_weight=36
+V1 add a group,its name in the coarsening graph is:410
+V1 's group weight is: 949 ,Vk 's group weight is: 7491
+
+gmax=-135525,gmax_name=1311,gmax_newname=139,gmax_group_weight=31
+V1 add a group,its name in the coarsening graph is:1311
+V1 's group weight is: 980 ,Vk 's group weight is: 7460
+
+gmax=-134784,gmax_name=959,gmax_newname=109,gmax_group_weight=28
+V1 add a group,its name in the coarsening graph is:959
+V1 's group weight is: 1008 ,Vk 's group weight is: 7432
+
+gmax=-134184,gmax_name=390,gmax_newname=46,gmax_group_weight=36
+V1 add a group,its name in the coarsening graph is:390
+V1 's group weight is: 1044 ,Vk 's group weight is: 7396
+
+gmax=-133525,gmax_name=1005,gmax_newname=114,gmax_group_weight=30
+V1 add a group,its name in the coarsening graph is:1005
+V1 's group weight is: 1074 ,Vk 's group weight is: 7366
+
+gmax=-132940,gmax_name=2842,gmax_newname=289,gmax_group_weight=28
+V1 add a group,its name in the coarsening graph is:2842
+V1 's group weight is: 1102 ,Vk 's group weight is: 7338
+
+gmax=-132205,gmax_name=1002,gmax_newname=113,gmax_group_weight=36
+V1 add a group,its name in the coarsening graph is:1002
+V1 's group weight is: 1138 ,Vk 's group weight is: 7302
+
+gmax=-131566,gmax_name=552,gmax_newname=62,gmax_group_weight=34
+V1 add a group,its name in the coarsening graph is:552
+V1 's group weight is: 1172 ,Vk 's group weight is: 7268
+
+gmax=-130743,gmax_name=819,gmax_newname=90,gmax_group_weight=28
+V1 add a group,its name in the coarsening graph is:819
+V1 's group weight is: 1200 ,Vk 's group weight is: 7240
+
+gmax=-130014,gmax_name=2184,gmax_newname=218,gmax_group_weight=27
+V1 add a group,its name in the coarsening graph is:2184
+V1 's group weight is: 1227 ,Vk 's group weight is: 7213
+
+gmax=-129209,gmax_name=26,gmax_newname=3,gmax_group_weight=31
+V1 add a group,its name in the coarsening graph is:26
+V1 's group weight is: 1258 ,Vk 's group weight is: 7182
+
+gmax=-128540,gmax_name=259,gmax_newname=34,gmax_group_weight=27
+V1 add a group,its name in the coarsening graph is:259
+V1 's group weight is: 1285 ,Vk 's group weight is: 7155
+
+gmax=-127849,gmax_name=1951,gmax_newname=192,gmax_group_weight=29
+V1 add a group,its name in the coarsening graph is:1951
+V1 's group weight is: 1314 ,Vk 's group weight is: 7126
+
+gmax=-127241,gmax_name=2782,gmax_newname=283,gmax_group_weight=28
+V1 add a group,its name in the coarsening graph is:2782
+V1 's group weight is: 1342 ,Vk 's group weight is: 7098
+
+gmax=-126662,gmax_name=2353,gmax_newname=235,gmax_group_weight=30
+V1 add a group,its name in the coarsening graph is:2353
+V1 's group weight is: 1372 ,Vk 's group weight is: 7068
+
+gmax=-125927,gmax_name=129,gmax_newname=18,gmax_group_weight=32
+V1 add a group,its name in the coarsening graph is:129
+V1 's group weight is: 1404 ,Vk 's group weight is: 7036
+
+gmax=-125303,gmax_name=1741,gmax_newname=171,gmax_group_weight=27
+V1 add a group,its name in the coarsening graph is:1741
+V1 's group weight is: 1431 ,Vk 's group weight is: 7009
+
+gmax=-124745,gmax_name=1177,gmax_newname=127,gmax_group_weight=27
+V1 add a group,its name in the coarsening graph is:1177
+V1 's group weight is: 1458 ,Vk 's group weight is: 6982
+
+gmax=-124173,gmax_name=2972,gmax_newname=307,gmax_group_weight=31
+V1 add a group,its name in the coarsening graph is:2972
+V1 's group weight is: 1489 ,Vk 's group weight is: 6951
+
+gmax=-123534,gmax_name=1454,gmax_newname=153,gmax_group_weight=31
+V1 add a group,its name in the coarsening graph is:1454
+V1 's group weight is: 1520 ,Vk 's group weight is: 6920
+
+gmax=-123023,gmax_name=1637,gmax_newname=163,gmax_group_weight=34
+V1 add a group,its name in the coarsening graph is:1637
+V1 's group weight is: 1554 ,Vk 's group weight is: 6886
+
+gmax=-122536,gmax_name=63,gmax_newname=9,gmax_group_weight=28
+V1 add a group,its name in the coarsening graph is:63
+V1 's group weight is: 1582 ,Vk 's group weight is: 6858
+
+gmax=-138787,gmax_name=2906,gmax_newname=299,gmax_group_weight=31
+V1 add a group,its name in the coarsening graph is:2906
+V1 's group weight is: 1613 ,Vk 's group weight is: 6827
+
+gmax=-137867,gmax_name=843,gmax_newname=92,gmax_group_weight=28
+V1 add a group,its name in the coarsening graph is:843
+V1 's group weight is: 1641 ,Vk 's group weight is: 6799
+
+gmax=-137045,gmax_name=2494,gmax_newname=253,gmax_group_weight=40
+V1 add a group,its name in the coarsening graph is:2494
+V1 's group weight is: 1681 ,Vk 's group weight is: 6759
+
+gmax=-135895,gmax_name=301,gmax_newname=40,gmax_group_weight=32
+V1 add a group,its name in the coarsening graph is:301
+V1 's group weight is: 1713 ,Vk 's group weight is: 6727
+
+gmax=-135034,gmax_name=515,gmax_newname=59,gmax_group_weight=32
+V1 add a group,its name in the coarsening graph is:515
+V1 's group weight is: 1745 ,Vk 's group weight is: 6695
+
+gmax=-134092,gmax_name=2107,gmax_newname=210,gmax_group_weight=38
+V1 add a group,its name in the coarsening graph is:2107
+V1 's group weight is: 1783 ,Vk 's group weight is: 6657
+
+gmax=-133332,gmax_name=2126,gmax_newname=213,gmax_group_weight=32
+V1 add a group,its name in the coarsening graph is:2126
+V1 's group weight is: 1815 ,Vk 's group weight is: 6625
+
+gmax=-132571,gmax_name=1784,gmax_newname=176,gmax_group_weight=40
+V1 add a group,its name in the coarsening graph is:1784
+V1 's group weight is: 1855 ,Vk 's group weight is: 6585
+
+gmax=-131577,gmax_name=745,gmax_newname=82,gmax_group_weight=32
+V1 add a group,its name in the coarsening graph is:745
+V1 's group weight is: 1887 ,Vk 's group weight is: 6553
+
+gmax=-130574,gmax_name=2742,gmax_newname=277,gmax_group_weight=42
+V1 add a group,its name in the coarsening graph is:2742
+V1 's group weight is: 1929 ,Vk 's group weight is: 6511
+
+gmax=-129641,gmax_name=1747,gmax_newname=172,gmax_group_weight=29
+V1 add a group,its name in the coarsening graph is:1747
+V1 's group weight is: 1958 ,Vk 's group weight is: 6482
+
+gmax=-128687,gmax_name=2855,gmax_newname=291,gmax_group_weight=38
+V1 add a group,its name in the coarsening graph is:2855
+V1 's group weight is: 1996 ,Vk 's group weight is: 6444
+
+gmax=-127643,gmax_name=35,gmax_newname=5,gmax_group_weight=27
+V1 add a group,its name in the coarsening graph is:35
+V1 's group weight is: 2023 ,Vk 's group weight is: 6417
+
+gmax=-126815,gmax_name=2620,gmax_newname=264,gmax_group_weight=40
+V1 add a group,its name in the coarsening graph is:2620
+V1 's group weight is: 2063 ,Vk 's group weight is: 6377
+
+Now is V2:
+
+gmax=-153746,gmax_name=1461,gmax_newname=154,gmax_group_weight=38
+V2 add a group,its name in the coarsening graph is:1461
+V2 's group weight is: 38 ,Vk 's group weight is: 6339
+
+gmax=-152976,gmax_name=335,gmax_newname=43,gmax_group_weight=40
+V2 add a group,its name in the coarsening graph is:335
+V2 's group weight is: 78 ,Vk 's group weight is: 6299
+
+gmax=-151953,gmax_name=193,gmax_newname=24,gmax_group_weight=32
+V2 add a group,its name in the coarsening graph is:193
+V2 's group weight is: 110 ,Vk 's group weight is: 6267
+
+gmax=-151194,gmax_name=1826,gmax_newname=182,gmax_group_weight=32
+V2 add a group,its name in the coarsening graph is:1826
+V2 's group weight is: 142 ,Vk 's group weight is: 6235
+
+gmax=-150290,gmax_name=2936,gmax_newname=302,gmax_group_weight=38
+V2 add a group,its name in the coarsening graph is:2936
+V2 's group weight is: 180 ,Vk 's group weight is: 6197
+
+gmax=-149365,gmax_name=2935,gmax_newname=301,gmax_group_weight=32
+V2 add a group,its name in the coarsening graph is:2935
+V2 's group weight is: 212 ,Vk 's group weight is: 6165
+
+gmax=-148487,gmax_name=619,gmax_newname=70,gmax_group_weight=42
+V2 add a group,its name in the coarsening graph is:619
+V2 's group weight is: 254 ,Vk 's group weight is: 6123
+
+gmax=-147480,gmax_name=1387,gmax_newname=146,gmax_group_weight=27
+V2 add a group,its name in the coarsening graph is:1387
+V2 's group weight is: 281 ,Vk 's group weight is: 6096
+
+gmax=-146492,gmax_name=78,gmax_newname=11,gmax_group_weight=31
+V2 add a group,its name in the coarsening graph is:78
+V2 's group weight is: 312 ,Vk 's group weight is: 6065
+
+gmax=-145643,gmax_name=2481,gmax_newname=251,gmax_group_weight=42
+V2 add a group,its name in the coarsening graph is:2481
+V2 's group weight is: 354 ,Vk 's group weight is: 6023
+
+gmax=-144780,gmax_name=2550,gmax_newname=259,gmax_group_weight=33
+V2 add a group,its name in the coarsening graph is:2550
+V2 's group weight is: 387 ,Vk 's group weight is: 5990
+
+gmax=-143731,gmax_name=1039,gmax_newname=117,gmax_group_weight=27
+V2 add a group,its name in the coarsening graph is:1039
+V2 's group weight is: 414 ,Vk 's group weight is: 5963
+
+gmax=-142751,gmax_name=127,gmax_newname=17,gmax_group_weight=28
+V2 add a group,its name in the coarsening graph is:127
+V2 's group weight is: 442 ,Vk 's group weight is: 5935
+
+gmax=-141744,gmax_name=1573,gmax_newname=161,gmax_group_weight=32
+V2 add a group,its name in the coarsening graph is:1573
+V2 's group weight is: 474 ,Vk 's group weight is: 5903
+
+gmax=-141011,gmax_name=299,gmax_newname=39,gmax_group_weight=42
+V2 add a group,its name in the coarsening graph is:299
+V2 's group weight is: 516 ,Vk 's group weight is: 5861
+
+gmax=-139904,gmax_name=2946,gmax_newname=305,gmax_group_weight=31
+V2 add a group,its name in the coarsening graph is:2946
+V2 's group weight is: 547 ,Vk 's group weight is: 5830
+
+gmax=-138960,gmax_name=2345,gmax_newname=232,gmax_group_weight=31
+V2 add a group,its name in the coarsening graph is:2345
+V2 's group weight is: 578 ,Vk 's group weight is: 5799
+
+gmax=-138061,gmax_name=3,gmax_newname=0,gmax_group_weight=38
+V2 add a group,its name in the coarsening graph is:3
+V2 's group weight is: 616 ,Vk 's group weight is: 5761
+
+gmax=-136961,gmax_name=1762,gmax_newname=174,gmax_group_weight=31
+V2 add a group,its name in the coarsening graph is:1762
+V2 's group weight is: 647 ,Vk 's group weight is: 5730
+
+gmax=-136100,gmax_name=668,gmax_newname=73,gmax_group_weight=32
+V2 add a group,its name in the coarsening graph is:668
+V2 's group weight is: 679 ,Vk 's group weight is: 5698
+
+gmax=-135034,gmax_name=91,gmax_newname=14,gmax_group_weight=31
+V2 add a group,its name in the coarsening graph is:91
+V2 's group weight is: 710 ,Vk 's group weight is: 5667
+
+gmax=-134217,gmax_name=49,gmax_newname=7,gmax_group_weight=42
+V2 add a group,its name in the coarsening graph is:49
+V2 's group weight is: 752 ,Vk 's group weight is: 5625
+
+gmax=-133273,gmax_name=1869,gmax_newname=186,gmax_group_weight=38
+V2 add a group,its name in the coarsening graph is:1869
+V2 's group weight is: 790 ,Vk 's group weight is: 5587
+
+gmax=-132364,gmax_name=2981,gmax_newname=309,gmax_group_weight=28
+V2 add a group,its name in the coarsening graph is:2981
+V2 's group weight is: 818 ,Vk 's group weight is: 5559
+
+gmax=-131516,gmax_name=2769,gmax_newname=281,gmax_group_weight=32
+V2 add a group,its name in the coarsening graph is:2769
+V2 's group weight is: 850 ,Vk 's group weight is: 5527
+
+gmax=-130725,gmax_name=1433,gmax_newname=150,gmax_group_weight=38
+V2 add a group,its name in the coarsening graph is:1433
+V2 's group weight is: 888 ,Vk 's group weight is: 5489
+
+gmax=-129750,gmax_name=1691,gmax_newname=164,gmax_group_weight=31
+V2 add a group,its name in the coarsening graph is:1691
+V2 's group weight is: 919 ,Vk 's group weight is: 5458
+
+gmax=-128846,gmax_name=2807,gmax_newname=285,gmax_group_weight=32
+V2 add a group,its name in the coarsening graph is:2807
+V2 's group weight is: 951 ,Vk 's group weight is: 5426
+
+gmax=-128016,gmax_name=881,gmax_newname=97,gmax_group_weight=42
+V2 add a group,its name in the coarsening graph is:881
+V2 's group weight is: 993 ,Vk 's group weight is: 5384
+
+gmax=-127116,gmax_name=2255,gmax_newname=225,gmax_group_weight=42
+V2 add a group,its name in the coarsening graph is:2255
+V2 's group weight is: 1035 ,Vk 's group weight is: 5342
+
+gmax=-126560,gmax_name=1809,gmax_newname=177,gmax_group_weight=40
+V2 add a group,its name in the coarsening graph is:1809
+V2 's group weight is: 1075 ,Vk 's group weight is: 5302
+
+gmax=-140217,gmax_name=2253,gmax_newname=224,gmax_group_weight=31
+V2 add a group,its name in the coarsening graph is:2253
+V2 's group weight is: 1106 ,Vk 's group weight is: 5271
+
+gmax=-139387,gmax_name=2352,gmax_newname=234,gmax_group_weight=44
+V2 add a group,its name in the coarsening graph is:2352
+V2 's group weight is: 1150 ,Vk 's group weight is: 5227
+
+gmax=-138249,gmax_name=2452,gmax_newname=247,gmax_group_weight=30
+V2 add a group,its name in the coarsening graph is:2452
+V2 's group weight is: 1180 ,Vk 's group weight is: 5197
+
+gmax=-137116,gmax_name=228,gmax_newname=27,gmax_group_weight=36
+V2 add a group,its name in the coarsening graph is:228
+V2 's group weight is: 1216 ,Vk 's group weight is: 5161
+
+gmax=-135903,gmax_name=857,gmax_newname=94,gmax_group_weight=30
+V2 add a group,its name in the coarsening graph is:857
+V2 's group weight is: 1246 ,Vk 's group weight is: 5131
+
+gmax=-134810,gmax_name=2636,gmax_newname=267,gmax_group_weight=48
+V2 add a group,its name in the coarsening graph is:2636
+V2 's group weight is: 1294 ,Vk 's group weight is: 5083
+
+gmax=-133640,gmax_name=1995,gmax_newname=198,gmax_group_weight=30
+V2 add a group,its name in the coarsening graph is:1995
+V2 's group weight is: 1324 ,Vk 's group weight is: 5053
+
+gmax=-132490,gmax_name=2704,gmax_newname=274,gmax_group_weight=44
+V2 add a group,its name in the coarsening graph is:2704
+V2 's group weight is: 1368 ,Vk 's group weight is: 5009
+
+gmax=-131548,gmax_name=907,gmax_newname=98,gmax_group_weight=31
+V2 add a group,its name in the coarsening graph is:907
+V2 's group weight is: 1399 ,Vk 's group weight is: 4978
+
+gmax=-130313,gmax_name=2780,gmax_newname=282,gmax_group_weight=30
+V2 add a group,its name in the coarsening graph is:2780
+V2 's group weight is: 1429 ,Vk 's group weight is: 4948
+
+gmax=-128913,gmax_name=1342,gmax_newname=142,gmax_group_weight=30
+V2 add a group,its name in the coarsening graph is:1342
+V2 's group weight is: 1459 ,Vk 's group weight is: 4918
+
+gmax=-127805,gmax_name=2372,gmax_newname=237,gmax_group_weight=36
+V2 add a group,its name in the coarsening graph is:2372
+V2 's group weight is: 1495 ,Vk 's group weight is: 4882
+
+gmax=-126507,gmax_name=214,gmax_newname=26,gmax_group_weight=48
+V2 add a group,its name in the coarsening graph is:214
+V2 's group weight is: 1543 ,Vk 's group weight is: 4834
+
+gmax=-125175,gmax_name=611,gmax_newname=68,gmax_group_weight=29
+V2 add a group,its name in the coarsening graph is:611
+V2 's group weight is: 1572 ,Vk 's group weight is: 4805
+
+gmax=-124062,gmax_name=2387,gmax_newname=239,gmax_group_weight=31
+V2 add a group,its name in the coarsening graph is:2387
+V2 's group weight is: 1603 ,Vk 's group weight is: 4774
+
+gmax=-122800,gmax_name=1590,gmax_newname=162,gmax_group_weight=30
+V2 add a group,its name in the coarsening graph is:1590
+V2 's group weight is: 1633 ,Vk 's group weight is: 4744
+
+gmax=-121547,gmax_name=1752,gmax_newname=173,gmax_group_weight=39
+V2 add a group,its name in the coarsening graph is:1752
+V2 's group weight is: 1672 ,Vk 's group weight is: 4705
+
+gmax=-120336,gmax_name=458,gmax_newname=54,gmax_group_weight=36
+V2 add a group,its name in the coarsening graph is:458
+V2 's group weight is: 1708 ,Vk 's group weight is: 4669
+
+gmax=-119018,gmax_name=482,gmax_newname=56,gmax_group_weight=29
+V2 add a group,its name in the coarsening graph is:482
+V2 's group weight is: 1737 ,Vk 's group weight is: 4640
+
+gmax=-117696,gmax_name=949,gmax_newname=107,gmax_group_weight=29
+V2 add a group,its name in the coarsening graph is:949
+V2 's group weight is: 1766 ,Vk 's group weight is: 4611
+
+gmax=-116502,gmax_name=2323,gmax_newname=230,gmax_group_weight=37
+V2 add a group,its name in the coarsening graph is:2323
+V2 's group weight is: 1803 ,Vk 's group weight is: 4574
+
+gmax=-115343,gmax_name=995,gmax_newname=112,gmax_group_weight=48
+V2 add a group,its name in the coarsening graph is:995
+V2 's group weight is: 1851 ,Vk 's group weight is: 4526
+
+gmax=-114082,gmax_name=2244,gmax_newname=223,gmax_group_weight=31
+V2 add a group,its name in the coarsening graph is:2244
+V2 's group weight is: 1882 ,Vk 's group weight is: 4495
+
+gmax=-112783,gmax_name=2826,gmax_newname=286,gmax_group_weight=31
+V2 add a group,its name in the coarsening graph is:2826
+V2 's group weight is: 1913 ,Vk 's group weight is: 4464
+
+gmax=-111618,gmax_name=751,gmax_newname=84,gmax_group_weight=28
+V2 add a group,its name in the coarsening graph is:751
+V2 's group weight is: 1941 ,Vk 's group weight is: 4436
+
+gmax=-110422,gmax_name=2106,gmax_newname=209,gmax_group_weight=27
+V2 add a group,its name in the coarsening graph is:2106
+V2 's group weight is: 1968 ,Vk 's group weight is: 4409
+
+gmax=-109190,gmax_name=279,gmax_newname=36,gmax_group_weight=28
+V2 add a group,its name in the coarsening graph is:279
+V2 's group weight is: 1996 ,Vk 's group weight is: 4381
+
+gmax=-107890,gmax_name=2592,gmax_newname=262,gmax_group_weight=30
+V2 add a group,its name in the coarsening graph is:2592
+V2 's group weight is: 2026 ,Vk 's group weight is: 4351
+
+gmax=-106528,gmax_name=1355,gmax_newname=143,gmax_group_weight=36
+V2 add a group,its name in the coarsening graph is:1355
+V2 's group weight is: 2062 ,Vk 's group weight is: 4315
+
+Now is V3:
+
+gmax=-141045,gmax_name=2156,gmax_newname=216,gmax_group_weight=27
+V3 add a group,its name in the coarsening graph is:2156
+V3 's group weight is: 27 ,Vk 's group weight is: 4288
+
+gmax=-139768,gmax_name=2748,gmax_newname=279,gmax_group_weight=27
+V3 add a group,its name in the coarsening graph is:2748
+V3 's group weight is: 54 ,Vk 's group weight is: 4261
+
+gmax=-138528,gmax_name=2062,gmax_newname=205,gmax_group_weight=34
+V3 add a group,its name in the coarsening graph is:2062
+V3 's group weight is: 88 ,Vk 's group weight is: 4227
+
+gmax=-137036,gmax_name=274,gmax_newname=35,gmax_group_weight=44
+V3 add a group,its name in the coarsening graph is:274
+V3 's group weight is: 132 ,Vk 's group weight is: 4183
+
+gmax=-136124,gmax_name=781,gmax_newname=87,gmax_group_weight=36
+V3 add a group,its name in the coarsening graph is:781
+V3 's group weight is: 168 ,Vk 's group weight is: 4147
+
+gmax=-134822,gmax_name=148,gmax_newname=19,gmax_group_weight=35
+V3 add a group,its name in the coarsening graph is:148
+V3 's group weight is: 203 ,Vk 's group weight is: 4112
+
+gmax=-133741,gmax_name=449,gmax_newname=52,gmax_group_weight=27
+V3 add a group,its name in the coarsening graph is:449
+V3 's group weight is: 230 ,Vk 's group weight is: 4085
+
+gmax=-132438,gmax_name=251,gmax_newname=31,gmax_group_weight=28
+V3 add a group,its name in the coarsening graph is:251
+V3 's group weight is: 258 ,Vk 's group weight is: 4057
+
+gmax=-131240,gmax_name=746,gmax_newname=83,gmax_group_weight=27
+V3 add a group,its name in the coarsening graph is:746
+V3 's group weight is: 285 ,Vk 's group weight is: 4030
+
+gmax=-130037,gmax_name=794,gmax_newname=88,gmax_group_weight=27
+V3 add a group,its name in the coarsening graph is:794
+V3 's group weight is: 312 ,Vk 's group weight is: 4003
+
+gmax=-129058,gmax_name=327,gmax_newname=42,gmax_group_weight=48
+V3 add a group,its name in the coarsening graph is:327
+V3 's group weight is: 360 ,Vk 's group weight is: 3955
+
+gmax=-127937,gmax_name=1737,gmax_newname=170,gmax_group_weight=30
+V3 add a group,its name in the coarsening graph is:1737
+V3 's group weight is: 390 ,Vk 's group weight is: 3925
+
+gmax=-126828,gmax_name=2465,gmax_newname=250,gmax_group_weight=44
+V3 add a group,its name in the coarsening graph is:2465
+V3 's group weight is: 434 ,Vk 's group weight is: 3881
+
+gmax=-125766,gmax_name=1820,gmax_newname=181,gmax_group_weight=31
+V3 add a group,its name in the coarsening graph is:1820
+V3 's group weight is: 465 ,Vk 's group weight is: 3850
+
+gmax=-136903,gmax_name=298,gmax_newname=38,gmax_group_weight=41
+V3 add a group,its name in the coarsening graph is:298
+V3 's group weight is: 506 ,Vk 's group weight is: 3809
+
+gmax=-135656,gmax_name=257,gmax_newname=33,gmax_group_weight=31
+V3 add a group,its name in the coarsening graph is:257
+V3 's group weight is: 537 ,Vk 's group weight is: 3778
+
+gmax=-134106,gmax_name=605,gmax_newname=67,gmax_group_weight=33
+V3 add a group,its name in the coarsening graph is:605
+V3 's group weight is: 570 ,Vk 's group weight is: 3745
+
+gmax=-132564,gmax_name=1133,gmax_newname=123,gmax_group_weight=29
+V3 add a group,its name in the coarsening graph is:1133
+V3 's group weight is: 599 ,Vk 's group weight is: 3716
+
+gmax=-131016,gmax_name=452,gmax_newname=53,gmax_group_weight=39
+V3 add a group,its name in the coarsening graph is:452
+V3 's group weight is: 638 ,Vk 's group weight is: 3677
+
+gmax=-129611,gmax_name=22,gmax_newname=2,gmax_group_weight=48
+V3 add a group,its name in the coarsening graph is:22
+V3 's group weight is: 686 ,Vk 's group weight is: 3629
+
+gmax=-128097,gmax_name=2087,gmax_newname=206,gmax_group_weight=29
+V3 add a group,its name in the coarsening graph is:2087
+V3 's group weight is: 715 ,Vk 's group weight is: 3600
+
+gmax=-126525,gmax_name=376,gmax_newname=44,gmax_group_weight=30
+V3 add a group,its name in the coarsening graph is:376
+V3 's group weight is: 745 ,Vk 's group weight is: 3570
+
+gmax=-124935,gmax_name=1723,gmax_newname=168,gmax_group_weight=29
+V3 add a group,its name in the coarsening graph is:1723
+V3 's group weight is: 774 ,Vk 's group weight is: 3541
+
+gmax=-123542,gmax_name=2973,gmax_newname=308,gmax_group_weight=32
+V3 add a group,its name in the coarsening graph is:2973
+V3 's group weight is: 806 ,Vk 's group weight is: 3509
+
+gmax=-121815,gmax_name=2021,gmax_newname=201,gmax_group_weight=47
+V3 add a group,its name in the coarsening graph is:2021
+V3 's group weight is: 853 ,Vk 's group weight is: 3462
+
+gmax=-120381,gmax_name=2398,gmax_newname=242,gmax_group_weight=29
+V3 add a group,its name in the coarsening graph is:2398
+V3 's group weight is: 882 ,Vk 's group weight is: 3433
+
+gmax=-118737,gmax_name=1439,gmax_newname=151,gmax_group_weight=36
+V3 add a group,its name in the coarsening graph is:1439
+V3 's group weight is: 918 ,Vk 's group weight is: 3397
+
+gmax=-117326,gmax_name=2392,gmax_newname=240,gmax_group_weight=29
+V3 add a group,its name in the coarsening graph is:2392
+V3 's group weight is: 947 ,Vk 's group weight is: 3368
+
+gmax=-115759,gmax_name=1964,gmax_newname=195,gmax_group_weight=35
+V3 add a group,its name in the coarsening graph is:1964
+V3 's group weight is: 982 ,Vk 's group weight is: 3333
+
+gmax=-114379,gmax_name=400,gmax_newname=47,gmax_group_weight=28
+V3 add a group,its name in the coarsening graph is:400
+V3 's group weight is: 1010 ,Vk 's group weight is: 3305
+
+gmax=-112678,gmax_name=2693,gmax_newname=272,gmax_group_weight=28
+V3 add a group,its name in the coarsening graph is:2693
+V3 's group weight is: 1038 ,Vk 's group weight is: 3277
+
+gmax=-110950,gmax_name=1264,gmax_newname=135,gmax_group_weight=48
+V3 add a group,its name in the coarsening graph is:1264
+V3 's group weight is: 1086 ,Vk 's group weight is: 3229
+
+gmax=-109464,gmax_name=125,gmax_newname=16,gmax_group_weight=47
+V3 add a group,its name in the coarsening graph is:125
+V3 's group weight is: 1133 ,Vk 's group weight is: 3182
+
+gmax=-108259,gmax_name=1490,gmax_newname=156,gmax_group_weight=48
+V3 add a group,its name in the coarsening graph is:1490
+V3 's group weight is: 1181 ,Vk 's group weight is: 3134
+
+gmax=-106957,gmax_name=161,gmax_newname=20,gmax_group_weight=31
+V3 add a group,its name in the coarsening graph is:161
+V3 's group weight is: 1212 ,Vk 's group weight is: 3103
+
+gmax=-114909,gmax_name=171,gmax_newname=21,gmax_group_weight=45
+V3 add a group,its name in the coarsening graph is:171
+V3 's group weight is: 1257 ,Vk 's group weight is: 3058
+
+gmax=-113354,gmax_name=2330,gmax_newname=231,gmax_group_weight=34
+V3 add a group,its name in the coarsening graph is:2330
+V3 's group weight is: 1291 ,Vk 's group weight is: 3024
+
+gmax=-111351,gmax_name=2626,gmax_newname=266,gmax_group_weight=37
+V3 add a group,its name in the coarsening graph is:2626
+V3 's group weight is: 1328 ,Vk 's group weight is: 2987
+
+gmax=-109263,gmax_name=2395,gmax_newname=241,gmax_group_weight=30
+V3 add a group,its name in the coarsening graph is:2395
+V3 's group weight is: 1358 ,Vk 's group weight is: 2957
+
+gmax=-107958,gmax_name=1568,gmax_newname=160,gmax_group_weight=36
+V3 add a group,its name in the coarsening graph is:1568
+V3 's group weight is: 1394 ,Vk 's group weight is: 2921
+
+gmax=-106090,gmax_name=2764,gmax_newname=280,gmax_group_weight=44
+V3 add a group,its name in the coarsening graph is:2764
+V3 's group weight is: 1438 ,Vk 's group weight is: 2877
+
+gmax=-105469,gmax_name=172,gmax_newname=22,gmax_group_weight=35
+V3 add a group,its name in the coarsening graph is:172
+V3 's group weight is: 1473 ,Vk 's group weight is: 2842
+
+gmax=-109615,gmax_name=1379,gmax_newname=145,gmax_group_weight=38
+V3 add a group,its name in the coarsening graph is:1379
+V3 's group weight is: 1511 ,Vk 's group weight is: 2804
+
+gmax=-108212,gmax_name=596,gmax_newname=66,gmax_group_weight=37
+V3 add a group,its name in the coarsening graph is:596
+V3 's group weight is: 1548 ,Vk 's group weight is: 2767
+
+gmax=-105931,gmax_name=322,gmax_newname=41,gmax_group_weight=28
+V3 add a group,its name in the coarsening graph is:322
+V3 's group weight is: 1576 ,Vk 's group weight is: 2739
+
+gmax=-103788,gmax_name=752,gmax_newname=85,gmax_group_weight=27
+V3 add a group,its name in the coarsening graph is:752
+V3 's group weight is: 1603 ,Vk 's group weight is: 2712
+
+gmax=-101586,gmax_name=2190,gmax_newname=219,gmax_group_weight=28
+V3 add a group,its name in the coarsening graph is:2190
+V3 's group weight is: 1631 ,Vk 's group weight is: 2684
+
+gmax=-99256,gmax_name=487,gmax_newname=57,gmax_group_weight=36
+V3 add a group,its name in the coarsening graph is:487
+V3 's group weight is: 1667 ,Vk 's group weight is: 2648
+
+gmax=-97454,gmax_name=1843,gmax_newname=184,gmax_group_weight=37
+V3 add a group,its name in the coarsening graph is:1843
+V3 's group weight is: 1704 ,Vk 's group weight is: 2611
+
+gmax=-95117,gmax_name=2860,gmax_newname=292,gmax_group_weight=46
+V3 add a group,its name in the coarsening graph is:2860
+V3 's group weight is: 1750 ,Vk 's group weight is: 2565
+
+gmax=-92884,gmax_name=2904,gmax_newname=297,gmax_group_weight=48
+V3 add a group,its name in the coarsening graph is:2904
+V3 's group weight is: 1798 ,Vk 's group weight is: 2517
+
+gmax=-90697,gmax_name=1465,gmax_newname=155,gmax_group_weight=37
+V3 add a group,its name in the coarsening graph is:1465
+V3 's group weight is: 1835 ,Vk 's group weight is: 2480
+
+gmax=-88233,gmax_name=537,gmax_newname=61,gmax_group_weight=34
+V3 add a group,its name in the coarsening graph is:537
+V3 's group weight is: 1869 ,Vk 's group weight is: 2446
+
+gmax=-85870,gmax_name=2434,gmax_newname=245,gmax_group_weight=28
+V3 add a group,its name in the coarsening graph is:2434
+V3 's group weight is: 1897 ,Vk 's group weight is: 2418
+
+gmax=-88971,gmax_name=2581,gmax_newname=261,gmax_group_weight=41
+V3 add a group,its name in the coarsening graph is:2581
+V3 's group weight is: 1938 ,Vk 's group weight is: 2377
+
+gmax=-86256,gmax_name=433,gmax_newname=51,gmax_group_weight=40
+V3 add a group,its name in the coarsening graph is:433
+V3 's group weight is: 1978 ,Vk 's group weight is: 2337
+
+gmax=-83774,gmax_name=386,gmax_newname=45,gmax_group_weight=31
+V3 add a group,its name in the coarsening graph is:386
+V3 's group weight is: 2009 ,Vk 's group weight is: 2306
+
+gmax=-80908,gmax_name=2429,gmax_newname=244,gmax_group_weight=40
+V3 add a group,its name in the coarsening graph is:2429
+V3 's group weight is: 2049 ,Vk 's group weight is: 2266
+
+gmax=-78396,gmax_name=1226,gmax_newname=131,gmax_group_weight=39
+V3 add a group,its name in the coarsening graph is:1226
+V3 's group weight is: 2088 ,Vk 's group weight is: 2227
+
+
+The V4's left groups are:
+
+V4 left a group,its name in the coarsening graph is:2998
+V4 left a group,its name in the coarsening graph is:2997
+V4 left a group,its name in the coarsening graph is:2877
+V4 left a group,its name in the coarsening graph is:2845
+V4 left a group,its name in the coarsening graph is:2701
+V4 left a group,its name in the coarsening graph is:2622
+V4 left a group,its name in the coarsening graph is:2599
+V4 left a group,its name in the coarsening graph is:2549
+V4 left a group,its name in the coarsening graph is:2536
+V4 left a group,its name in the coarsening graph is:2526
+V4 left a group,its name in the coarsening graph is:2489
+V4 left a group,its name in the coarsening graph is:2455
+V4 left a group,its name in the coarsening graph is:2415
+V4 left a group,its name in the coarsening graph is:2290
+V4 left a group,its name in the coarsening graph is:2215
+V4 left a group,its name in the coarsening graph is:2136
+V4 left a group,its name in the coarsening graph is:2113
+V4 left a group,its name in the coarsening graph is:2049
+V4 left a group,its name in the coarsening graph is:2008
+V4 left a group,its name in the coarsening graph is:1978
+V4 left a group,its name in the coarsening graph is:1961
+V4 left a group,its name in the coarsening graph is:1910
+V4 left a group,its name in the coarsening graph is:1833
+V4 left a group,its name in the coarsening graph is:1818
+V4 left a group,its name in the coarsening graph is:1812
+V4 left a group,its name in the coarsening graph is:1781
+V4 left a group,its name in the coarsening graph is:1715
+V4 left a group,its name in the coarsening graph is:1713
+V4 left a group,its name in the coarsening graph is:1693
+V4 left a group,its name in the coarsening graph is:1446
+V4 left a group,its name in the coarsening graph is:1399
+V4 left a group,its name in the coarsening graph is:1313
+V4 left a group,its name in the coarsening graph is:1310
+V4 left a group,its name in the coarsening graph is:1301
+V4 left a group,its name in the coarsening graph is:1239
+V4 left a group,its name in the coarsening graph is:1188
+V4 left a group,its name in the coarsening graph is:1183
+V4 left a group,its name in the coarsening graph is:1161
+V4 left a group,its name in the coarsening graph is:1150
+V4 left a group,its name in the coarsening graph is:1139
+V4 left a group,its name in the coarsening graph is:1060
+V4 left a group,its name in the coarsening graph is:958
+V4 left a group,its name in the coarsening graph is:932
+V4 left a group,its name in the coarsening graph is:924
+V4 left a group,its name in the coarsening graph is:922
+V4 left a group,its name in the coarsening graph is:921
+V4 left a group,its name in the coarsening graph is:874
+V4 left a group,its name in the coarsening graph is:852
+V4 left a group,its name in the coarsening graph is:672
+V4 left a group,its name in the coarsening graph is:516
+V4 left a group,its name in the coarsening graph is:416
+V4 left a group,its name in the coarsening graph is:238
+V4 left a group,its name in the coarsening graph is:206
+V4 left a group,its name in the coarsening graph is:95
+V4 left a group,its name in the coarsening graph is:79
+V4 left a group,its name in the coarsening graph is:77
+V4 left a group,its name in the coarsening graph is:39
+V4 left a group,its name in the coarsening graph is:30
